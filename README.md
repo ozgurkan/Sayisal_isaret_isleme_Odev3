@@ -1,0 +1,1 @@
+# Symmetry-Property-of-DTFT
